@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/NKEt9elQ5cR68/giphy.gif)](https://jishnuanil.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)](https://jishnuanil.io)
 <h1 align="center">Hi 👋, I'm Jishnu Anil</h1>
 <h3 align="center">Crafting End-to-End Solutions with Passion | Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
