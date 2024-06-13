@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
 <p align="left"> <a href="https://twitter.com/jishnuanil6" target="blank"><img src="https://img.shields.io/twitter/follow/jishnuanil6?logo=twitter&style=for-the-badge" alt="jishnuanil6" /></a> </p>
 
-- 🔭 I’m currently working on **MarketPlace Project**
+- 🔭 I’m currently working on **Social media Project**
 
 - 🌱 I’m currently learning **Next js**
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://jisbloggs.blogspot.com/](https://jisbloggs.blogspot.com/)
 
-- 💬 Ask me about **Javascript, React, Node, DSA, SQL, MongoDB**
+- 💬 Ask me about **Javascript, React, Node, Redux,Next js, SQL, MongoDB**
 
 - 📫 How to reach me **jishnuanil255@gmail.com**
 
