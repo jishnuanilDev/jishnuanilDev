@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://jisbloggs.blogspot.com/](https://jisbloggs.blogspot.com/)
 
-- 💬 Ask me about **Javascript, React, Node, Redux, Next js, SQL, MongoDB**
+- 💬 Ask me about **Javascript, React, Node, Express, Redux, Next js, Typescript, SQL, MongoDB**
 
 - 📫 How to reach me **jishnuanil255@gmail.com**
 
