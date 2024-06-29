@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://jishnuanil.io)
+[![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)](https://jishnuanil.io)
 <h1 align="center">Hi 👋, I'm Jishnu Anil</h1>
 <h3 align="center">Crafting End-to-End Solutions with Passion | Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
